@@ -26,7 +26,6 @@ alt="GoMarketplace"/>
 <hr />
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: center">
   <img src="src/assets/GoMarketplace/dashboard.png" alt="Dashboard"/>
-  <br />
   <img src="src/assets/GoMarketplace/cart.png" alt="Dashboard"/>
 </div>
 
